@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestKotlin</string>
+    <string name="name">Name</string>
+    <string name="email_id">Email Id</string>
+    <string name="age">Age</string>
+    <string name="sign_up">Sign up</string>
+    <string name="error_invalid_name">Please enter name</string>
+    <string name="error_invalid_email">Please enter valid email id</string>
+    <string name="error_invalid_age">Age must be between 20-51</string>
+</resources>
